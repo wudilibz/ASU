@@ -1,0 +1,61 @@
+Title: The Mermaid
+Genre: Comedy
+Director Name: Stephen Chow
+Studio: Star Overseas
+Year: 2016
+
+Title: A Chinese Odyssey
+Genre: Fantasy
+Director Name: Jeffrey Lau
+Studio: Star Shine
+Year: 1995
+
+Title: God of Cookery
+Genre: Comedy
+Director Name: Stephen Chow
+Studio: Star Overseas
+Year: 1996
+
+Title: Mission: Impossible
+Genre: Action
+Director Name: Brian De Palma
+Studio: Paramount
+Year: 1996
+
+Title: Goodbye Mr. Loser
+Genre: Comedy
+Director Name: Yan Fei
+Director Name: Peng Damo
+Studio: New Classics Media
+Year: 2015
+
+Title: Zootopia
+Genre: Animation
+Director Name: Byron Howard
+Director Name: Rich Moore
+Studio: Disney
+Year: 2016
+
+Title: Kung Fu Hustle
+Genre: Action
+Director Name: Stephen Chow
+Studio: Star Overseas
+Year: 2004
+
+Title: Ne Zha
+Genre: Animation
+Director Name: Jiaozi
+Studio: Coloroom Pictures
+Year: 2019
+
+Title: The Fast and the Furious
+Genre: Action
+Director Name: Rob Cohen
+Studio: Universal
+Year: 2001
+
+Title: Lara Croft: Tomb Raider
+Genre: Action
+Director Name: Simon West
+Studio: Paramount
+Year: 2001
